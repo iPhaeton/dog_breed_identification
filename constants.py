@@ -1,4 +1,4 @@
-img_size = 112
+img_size = 224
 train_data_dir = 'data/train_dataset/'  
 dev_data_dir = 'data/dev_dataset/'  
 epochs = 50

@@ -1,6 +1,6 @@
 img_size = 224
 train_data_dir = 'data/train_dataset/'  
 dev_data_dir = 'data/dev_dataset/'  
-epochs = 50
+epochs = 100
 batch_size = 8
 num_class = 120

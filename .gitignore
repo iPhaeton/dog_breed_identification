@@ -4,3 +4,5 @@ data/
 model*
 __pycache__
 best_models/
+inceprion_xception/inception_features.npy
+inceprion_xception/xception_features.npy
